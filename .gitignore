@@ -1,0 +1,5 @@
+/esusu_venv
+/.vscode
+__pycache__/
+/logs
+.env
